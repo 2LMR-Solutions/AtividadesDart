@@ -15,3 +15,4 @@ All your files and folders are presented as a tree in the file explorer. You can
 - Rode o comando `dart run .\main.dart`.
 
 ## Funcionamento
+![Screen-Recording-_18-10-2024-22-05-10_](https://github.com/user-attachments/assets/46a4c826-face-497a-b092-690baae35977)
