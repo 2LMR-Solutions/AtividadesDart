@@ -11,4 +11,4 @@ O programa deve receber um número inteiro N e exibir todos os números primos d
 
 - Baixe a pasta Atividade7GeradorNumerosPrimos;
 - Abra a pasta no terminal com o comando cd Atividade7GeradorNumerosPrimos;
-- Rode o comando dart run .\main.dart.
+- Rode o comando `dart run main.dart`.

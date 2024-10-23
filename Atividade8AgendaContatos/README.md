@@ -11,5 +11,5 @@ O programa deve permitir adicionar, listar, editar e excluir contatos. Cada cont
 
 - Baixe a pasta Atividade8AgendaContatos;
 - Abra a pasta no terminal com o comando `cd Atividade8AgendaContatos`;
-- Rode o comando `dart run .\main.dart`.
+- Rode o comando `dart run main.dart`.
 

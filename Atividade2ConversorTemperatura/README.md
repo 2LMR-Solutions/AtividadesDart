@@ -11,4 +11,4 @@ O programa deve receber a temperatura e a unidade inicial e realizar a conversã
 
 - Baixe a pasta Atividade2ConversorTemperatura;
 - Abra a pasta no terminal com o comando `cd Atividade2ConversorTemperatura`;
-- Rode o comando `dart run .\main.dart`.
+- Rode o comando `dart run main.dart`.

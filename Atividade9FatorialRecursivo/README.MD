@@ -11,4 +11,4 @@ O programa deve receber um número inteiro positivo e calcular seu fatorial util
 
 - Baixe a pasta Atividade9FatorialRecursivo;
 - Abra a pasta no terminal com o comando `cd Atividade9FatorialRecursivo`;
-- Rode o comando `dart run .\main.dart`.
+- Rode o comando `dart run main.dart`.

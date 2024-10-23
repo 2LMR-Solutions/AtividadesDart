@@ -11,4 +11,4 @@ A aplicação deve permitir a entrada de dois números e um operador, e deve exi
 
 - Baixe a pasta Atividade1CalculadoraSimples;
 - Abra a pasta no terminal com o comando `cd Atividade1CalculadoraSimples`;
-- Rode o comando `dart run .\main.dart`.
+- Rode o comando `dart run main.dart`.
