@@ -11,4 +11,4 @@ O programa deve receber um número inteiro e converter para sua representação 
 
 - Baixe a pasta Atividade8AgendaContatos;
 - Abra a pasta no terminal com o comando `cd Atividade10ConversordeNumerosRomanos`;
-- Rode o comando `dart run .\main.dart`.
+- Rode o comando `dart run main.dart`.
