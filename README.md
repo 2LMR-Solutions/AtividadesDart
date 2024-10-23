@@ -8,4 +8,4 @@
 
 ## Como rodar 
 
-Abra a pasta da atividade que deseja visualizar, baixe os arquivos da pasta e no terminal, rode o arquivo dart run .\main.dart
+Abra a pasta da atividade que deseja visualizar, baixe os arquivos da pasta e no terminal, rode o arquivo dart run main.dart
