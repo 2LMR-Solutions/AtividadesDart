@@ -1,9 +1,9 @@
 # AtividadesDart
 
 ## Separação de atividades 
-1/2/3 Rafaela
-4/8 Matheus
-5/6 Luciano
+1/2/3 Rafaela <br>
+4/8 Matheus <br>
+5/6 Luciano <br>
 7/9/10 Leonardo
 
 ## Como rodar 
